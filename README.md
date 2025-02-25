@@ -1,6 +1,6 @@
-E aí, tudo bem? Meu nome é João Gabriel e estou no 6° semestre do curso de Ciência da Computação na SPTech! Venha me conhecer um pouco mais nas minhas redes e fique a vontade para explorar as minhas colaborações aqui no GitHub. 
+E aí, tudo bem? Meu nome é João Gabriel e estou no 7° semestre do curso de Ciência da Computação na SPTech! Venha me conhecer um pouco mais nas minhas redes e fique a vontade para explorar as minhas colaborações aqui no GitHub. 
 
-LinkedIn: https://www.linkedin.com/in/joão-barreto-9280492a4/
+LinkedIn: [jg-barreto](https://www.linkedin.com/in/jg-barreto/)
 
 
 <!---
